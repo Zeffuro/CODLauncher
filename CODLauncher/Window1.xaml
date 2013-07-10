@@ -1,0 +1,8 @@
+﻿<Window x:Class="CODLauncher.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Search Wars" Height="600" Width="800">
+    <DockPanel Name="dockPanel1">
+        <WebBrowser Name="ircChat" />
+    </DockPanel>
+</Window>
